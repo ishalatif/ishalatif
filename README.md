@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Software+Development;Machine+Learning+Enthusiast;NLP+%7C+Web+Development;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Software+Development;Machine+Learning+Enthusiast;Porject+Management+Enthusiast;NLP+%7C+Web+Development;Always+Learning+New+Things" />
 </p>
 
 ---
