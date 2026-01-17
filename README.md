@@ -13,7 +13,9 @@
 
 ### 🛠 Tech Stack
 **Languages & Tools:**  
-- Python  
+- Python
+- PHP
+- GO  
 - JavaScript  
 - HTML & CSS  
 - Git & GitHub  
@@ -22,7 +24,9 @@
 - Scikit-learn  
 - Pandas  
 - NumPy  
-- SpaCy  
+- SpaCy
+- Laravel
+- CodeIgniter
 
 ---
 
@@ -43,8 +47,8 @@ Most repositories are organized into:
 ---
 
 ### 📫 Get in Touch
-- 💼 LinkedIn: *(isi link kamu di sini)*  
-- 📧 Email: *(opsional)*  
+- 💼 LinkedIn: www.linkedin.com/in/ishalatif  
+- 📧 Email: ishalatif15@gmail.com  
 
 ---
 
